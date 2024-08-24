@@ -2,8 +2,6 @@
 
 Hi, Seja bem vido a minha pagina no Github!😁
 
-Nessa pagina você irá encontrar projetos voltados para Front-End uma das minhas paixões profissionais, uma por que também sou apaixonada por Cybersecurity, parece no primeiro momento que uma não tem nada haver com a outra, como se fossem dois caminhos separados, mas na verdade, elas seguem o mesmo principio, ENCONTRAR E RESOLVER PROBLEMAS.
-
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
